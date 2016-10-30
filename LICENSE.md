@@ -1,7 +1,7 @@
-Intellectual Freedom Software License - Version 1.0 - August 10, 2013
+Intellectual Freedom Software R9license - Version 3.0 - August 10, 2016
 --------------------------------------------------------------------
 
-Copyright (c) 2013 Invictus Innovations, Inc.
+Copyright (c) 2016 Invictus Innovations, Inc.
 All rights reserved.
 
 Redistribution and use in the source and binary forms, with or without 
