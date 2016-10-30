@@ -1,7 +1,7 @@
-bitshares - Polymorphic Digital Asset Library
+VRBcoinshares - Polymorphic Digital Asset Library
 =========
 
-BitShares is a new blockchain that pays dividends and enables users
+VRBcoinShares is a new blockchain that pays dividends and enables users
 to short and trade any arbitrary asset type.
 
 
@@ -19,7 +19,7 @@ Dependencies
 	Qt 5.1 (for GUI only)
 	cmake 2.8.11.2
 
-Build
+R9Build
 --------------------
 
 	git clone https://github.com/InvictusInnovations/BitShares.git
